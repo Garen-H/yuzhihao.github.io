@@ -13,7 +13,7 @@ author_profile: true
 ## Job Market Paper
 
 ### Macro-Monopoly Dynamics: How Large Firms Shape Aggregate Outcomes
-*   **Authors:** Yuzhi HAO and Danyang XIE
+*   **Authors:** Yuzhi Hao and Danyang Xie
 *   **Presentation:** Xiamen University EFG 2025
 *   **[Click here for PDF](/files/JMP.pdf)**
 
@@ -25,7 +25,7 @@ This paper develops a dynamic general equilibrium model with a macro-monopoly, a
 ## Publication
 
 ### A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis
-*   **Authors:** Yuzhi HAO and Danyang XIE
+*   **Authors:** Yuzhi Hao and Danyang Xie
 *   **Journal:** *China Journal of Econometrics*, 2025, 5(3): 615-630
 *   **[Click here for PDF](/files/MLAB.pdf)**
 
@@ -39,14 +39,14 @@ This paper pioneers a novel approach to economic and public policy analysis by l
 ### Rewiring Opportunity: How Improved Internet Infrastructure Reduces Intra-City Income Inequality in China
 *   **Authors:** Yanlin Wan, Xu Zhang, Yuzhi HAO, Aoqing Lyu, Masaru Yarime
 *   **Status:** Submitted
-*   **[Click here for PDF](/files/bb.pdf)**
+*   draft available upon request
 
 **Abstract:**
 This study investigates the impact of enhanced internet infrastructure on intra-city income inequality in China. Employing a staggered difference-in-differences methodology, our analysis reveals that the Broadband China Strategic Program from 2014 to 2016 resulted in a notable reduction in the income Gini coefficients of the demonstration cities, with substantial income gains among low- and middle-income households. We argue that the improved internet infrastructure mitigated income inequality mainly by creating new employment opportunities in the service sector for low-skilled workers. Our findings underscore the pivotal role of technology in fostering inclusive economic growth and provide valuable insights for policymakers seeking to harness investments in internet infrastructure and improve social equality in developing countries.
 
 ### Bridging the Treatment Gap in Mental Healthcare: Evidence from China
 *   **Authors:** Yanlin Wan, Yuzhi HAO, Xu Zhang
-*   **[Click here for PDF](/files/Mental_Healthcare_China.pdf)**
+*   draft available upon request
 
 **Abstract:**
 We evaluate a large-scale, nationwide policy in China that aimed to improve population mental well-being by simultaneously expanding the supply of mental healthcare resources and reducing public stigma. Using a difference-in-differences design, we find that the policy significantly improved mental health outcomes on average; however, the benefits were concentrated among individuals with better mental health. We then provide descriptive evidence of an increase in mental healthcare adoption following this policy. To investigate the channels driving this enhanced adoption, we conducted a discrete choice experiment (DCE) focusing on the costs of care: monetary costs (price), time costs (commuting time), and psychological costs (stigma). The DCE reveals crucial heterogeneity: individuals with better mental health are more responsive to reductions in time costs but less sensitive to monetary costs. These findings suggest the policy’s average success was driven by the reduced time costs for these with better mental health conditions. We conclude that effective mental health interventions require a broad approach to improve general access, coupled with targeted efforts to remove financial barriers and provide privacy-sensitive support for those with severe conditions.
