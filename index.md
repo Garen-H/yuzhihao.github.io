@@ -1,8 +1,10 @@
 ---
 author_profile: true
-title: "About me"
+title: "Yuzhi HAO / 郝俞植"
 ---
-Welcome to my personal website! I am Yuzhi HAO (郝俞植), a Ph.D. candidate in Economics at the business school, Hong Kong University of Science and Technology. My research interests include Macroeconomics, Optimal Policy, and the application of AI and Large Language Models in economic analysis.
+## About me ##
+
+Welcome to my personal website! I am a Ph.D. candidate in Economics at the business school, Hong Kong University of Science and Technology. My research interests include Macroeconomics, Optimal Policy, and the application of Large Language Models and deep learning in economic analysis.
 
 **I will be on the job market in 2025-2026 and available for interviews.**
 
